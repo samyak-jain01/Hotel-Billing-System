@@ -116,7 +116,6 @@ class hotelfarecal:
         print ("1.Shorts----->Rs3","2.Trousers----->Rs4","3.Shirt--->Rs5","4.Jeans---->Rs6","5.Girlsuit--->Rs8","6.Exit")
 
         while (1):
-            #brought to you by code-projects.org
 
             e=int(input("Enter your choice:"))
 
@@ -213,9 +212,6 @@ class hotelfarecal:
 
             
 
-        
-
-        
 
 def main():
 
